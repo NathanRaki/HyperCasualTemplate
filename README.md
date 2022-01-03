@@ -1,3 +1,3 @@
 # HyperCasualTemplate
 
-![Gameplay Gif](gameplay.gif)
+![Gameplay Gif](gameplay.gif | width = 400)
