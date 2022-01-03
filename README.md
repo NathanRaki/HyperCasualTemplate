@@ -1,3 +1,3 @@
 # HyperCasualTemplate
 
-![Gameplay Gif](gameplay.gif | width = 400)
+<img src="https://github.com/NathanRaki/HyperCasualTemplate/blob/main/gameplay.gif" width=50% height=50%>
